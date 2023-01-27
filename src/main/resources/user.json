@@ -1,0 +1,23 @@
+{
+    "id": 10,
+    "name": "John Week",
+    "username": "Witch",
+    "email": "Opapa@keanu.rivz",
+    "address": {
+      "street": "Matrix Trilogy",
+      "suite": "Apt. 47",
+      "city": "Anderson",
+      "zipcode": "31415926",
+      "geo": {
+        "lat": "-27.1539",
+        "lng": "51.9614"
+      }
+    },
+    "phone": "+390600206101",
+    "website": "Tomas.org",
+    "company": {
+      "name": "Smith",
+      "catchPhrase": "Knock knock Neo",
+      "bs": "There is no spoon"
+}
+}

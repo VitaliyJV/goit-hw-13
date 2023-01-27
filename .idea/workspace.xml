@@ -5,19 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab36c14-4d4a-403d-ba3b-5eaa5a85b707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HTTP_Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Item_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_3/Item_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/user2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HTTP_Task_1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,18 +47,79 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Vitaliy/goit-hw-13/src/main/resources",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="HTTP_Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HTTP_Task_1" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vitaliy\goit-hw-13\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vitaliy\goit-hw-13\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Item_6">
+    <configuration name="Item_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HTTP.Task_1.Item_2" />
       <module name="goit-hw-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="HTTP.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Item_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HTTP.Task_1.Item_3" />
+      <module name="goit-hw-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTTP.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Item_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HTTP.Task_1.Item_4" />
+      <module name="goit-hw-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTTP.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Item_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HTTP.Task_1.Item_5" />
+      <module name="goit-hw-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTTP.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Item_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HTTP.Task_1.Item_6" />
+      <module name="goit-hw-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTTP.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,7 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HTTP_Task_1" />
+        <item itemvalue="Application.Item_6" />
+        <item itemvalue="Application.Item_4" />
+        <item itemvalue="Application.Item_5" />
+        <item itemvalue="Application.Item_3" />
+        <item itemvalue="Application.Item_2" />
       </list>
     </recent_temporary>
   </component>

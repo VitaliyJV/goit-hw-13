@@ -30,9 +30,7 @@ public class Item_1 {
         catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
-
     }
-
 }
 
 /*

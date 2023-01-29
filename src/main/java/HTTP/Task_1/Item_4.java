@@ -8,7 +8,6 @@ import java.net.http.HttpResponse;
 
 public class Item_4 {
     private static final String URL = "https://jsonplaceholder.typicode.com/users";
-
     public static void main(String[] args) {
         HttpClient client1 = HttpClient.newHttpClient();
         HttpRequest request1 = HttpRequest.newBuilder()

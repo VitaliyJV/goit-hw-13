@@ -51,7 +51,7 @@ public class Comment {
         this.email = email;
     }
 
-    public String getBodyComment() {
+    public String getBody() {
         return body;
     }
 

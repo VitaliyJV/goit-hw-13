@@ -7,9 +7,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class Item_5 {
-
     public static final String URL = "https://jsonplaceholder.typicode.com/users?id=3";
-
     public static void main(String[] args) {
         HttpClient client1 = HttpClient.newHttpClient();
         HttpRequest request1 = HttpRequest.newBuilder()
@@ -24,9 +22,7 @@ public class Item_5 {
         catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
-
     }
-
 }
 
 /*

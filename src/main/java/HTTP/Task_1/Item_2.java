@@ -10,7 +10,6 @@ import java.nio.file.Paths;
 
 public class Item_2 {
     private static final String URL = "https://jsonplaceholder.typicode.com/users/1";
-
     public static void main(String[] args) {
         HttpClient client1 = HttpClient.newHttpClient();
         HttpRequest request1 = null;
@@ -30,9 +29,7 @@ public class Item_2 {
         catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
-
     }
-
 }
 
 /*

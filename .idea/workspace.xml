@@ -8,13 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ab36c14-4d4a-403d-ba3b-5eaa5a85b707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_3/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/User-10-post-50-comments.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_1/Item_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Comment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Item_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_2/Item_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HTTP/Task_3/Item_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HTTP/Task_3/Item_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
